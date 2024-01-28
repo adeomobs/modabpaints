@@ -10,17 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
+    # Checkout the repository
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v4
+    # sync files via FTP
+    - name: 📂 Sync files via FTP
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        node-version: '20'
-
-
-    - name: Deploy to cPanel
-      env:
-        FTP_SERVER: ${{ secrets.SERVER }}
-        FTP_USERNAME: ${{ secrets.USERNAME }}
-        FTP_PASSWORD: ${{ secrets.PASSWORD }}
-      run: |
-        chmod +x deploy.sh
-        deploy.sh
+        server: ${{ secrets.SERVER }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}

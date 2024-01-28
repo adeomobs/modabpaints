@@ -1,32 +1,67 @@
-name: Deploy website on push
+#name: Deploy website on push
 
 # controls when the workflow will run
-on:
+#on:
   # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches:
-      - main
+#  push:
+#    branches:
+#      - main
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
+#jobs:
   # This workflow contains a single job called "build"
-  web-deploy:
-    name: deploy
+#  web-deploy:
+#    name: deploy
 
     # Type of runner the job will run on
-    runs-on: ubuntu-latest
+#    runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-    - name: Get latest code
+#    steps:
+#    - name: Get latest code
 
       # Checks out your repository under $GITIHUB_WORKSPACE, so your job can access it
+#      uses: actions/checkout@v2
+
+#   - name: synch files
+#      uses: Samkirkland/FTP-Deploy-Action@4.1.0
+#      with: 
+#        server: ftp.modabpaints.com
+#        username: ${{ secrets.USERNAME }}
+#        password: ${{ secrets.PASSWORD }}
+#        server-dir: /
+
+
+
+
+name: Deploy to cPanel
+
+on:
+  push:
+    branches:
+      - main  # Change this to your main branch name
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: synch files
-      uses: Samkirkland/FTP-Deploy-Action@4.1.0
-      with: 
-        server: ftp.modabpaints.com
-        username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}
-        server-dir: /
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '14'
+
+    - name: Install Dependencies
+      run: npm install  # Change this if your project uses a different package manager
+
+    - name: Deploy to cPanel
+      env:
+        FTP_SERVER: ${{ secrets.SERVER }}
+        FTP_USERNAME: ${{ secrets.USERNAME }}
+        FTP_PASSWORD: ${{ secrets.PASSWORD }}
+      run: |
+        chmod +x deploy.sh
+        ./deploy.sh

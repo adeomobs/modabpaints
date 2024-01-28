@@ -10,8 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout
+    - name: debug
+      run: |
+        echo "Debugging information"
+        echo "FTP_SERVER: ${{ secrets.SERVER }}"
+        echo "FTP_USERNAME: ${{ secrets.USERNAME }}"
+        echo "FTP_PASSWORD: ${{ secrets.PASSWORD }}"
+        echo "Current directory: $(pwd)"
 
     - name: Set up Node.js
       uses: actions/setup-node@v3

@@ -2,8 +2,8 @@
 
 # Replace these variables with your cPanel details
 FTP_SERVER="ftp.modabpaints.com"
-FTP_USERNAME=${{ secrets.USERNAME }}
-FTP_PASSWORD=${{ secrets.PASSWORD }}
+FTP_USERNAME=$USERNAME
+FTP_PASSWORD=$PASSWORD
 REMOTE_PATH="/public_html"
 
 echo "Deploying to cPanel..."

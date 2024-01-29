@@ -10,12 +10,12 @@
 					<!-- START REVOLUTION SLIDER 5.1.4 fullscreen mode -->
 					<div id="rev_slider_579_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.1.4">
 						<ul>   <!-- SLIDE  -->
-							<li class="dark" data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/slider/rev/main/s1-thumb.jpg"  data-saveperformance="off"  data-title="Welcome to Canvas">
+							<li class="dark" data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/slides/modab-paints-slide-1.jpg"  data-saveperformance="off"  data-title="Welcome to Modab Paints">
 								<!-- MAIN IMAGE -->
-								<img src="images/videos/explore-poster.jpg"  alt="Image"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+								<img src="images/slides/modab-paints-slide-1.jpg"  alt="Modab Paints"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 								<!-- LAYERS -->
 
-								<!-- LAYER NR. 1 -->
+								<!-- LAYER NR. 1 --
 								<div class="tp-fade fadeout fullscreenvideo rs-background-video-layer"
 									data-forcerewind="on"
 									data-volume="mute"
@@ -100,9 +100,9 @@
 								data-endeasing="Power4.easeIn" style="z-index: 3; white-space: nowrap;"><a href="#" class="button button-border button-white button-light button-large button-rounded text-end m-0"><span>Start Tour</span> <i class="icon-angle-right"></i></a></div>
 
 							</li>
-							<li class="dark" data-transition="slideup" data-slotamount="1" data-masterspeed="1000" data-thumb="images/slider/rev/main/s2-thumb.jpg"  data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off"  data-title="Unlimited Homepages">
+							<li class="dark" data-transition="slideup" data-slotamount="1" data-masterspeed="1000" data-thumb="images/slides/modab-paints-slide-3-black.jpg"  data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off"  data-title="High Quality Paints">
 								<!-- MAIN IMAGE -->
-								<img src="images/slider/rev/main/s2-bg.jpg"  alt="video_woman_cover3"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+								<img src="images/slides/modab-paints-slide-3-black.jpg"  alt="Modab Paints"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
 								<!-- LAYERS -->
 								<!-- LAYER NR. 2 -->
 								<!--<div class="tp-caption ltl tp-resizeme rs-parallaxlevel-8"
@@ -279,9 +279,9 @@
 								data-endeasing="Power4.easeIn" style="z-index: 11;"><a href="#" class="button button-border button-white button-light button-large button-rounded text-end m-0"><span>Check Now</span> <i class="icon-angle-right"></i></a></div>
 
 							</li>
-							<li data-transition="slideup" data-slotamount="1" data-masterspeed="1500" data-thumb="images/slider/rev/main/s3-thumb.jpg" data-delay="10000"  data-saveperformance="off"  data-title="Responsive &amp; Retina">
+							<li data-transition="slideup" data-slotamount="1" data-masterspeed="1500" data-thumb="images/slides/modab-paints-slide-2.jpg" data-delay="10000"  data-saveperformance="off"  data-title="Quality &amp; Affordable">
 							<!-- MAIN IMAGE -->
-								<img src="images/slider/rev/main/s3.jpg"  alt="kenburns6"  data-bgposition="left top" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
+								<img src="images/slides/modab-paints-slide-2.jpg"  alt="kenburns6"  data-bgposition="left top" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 								<!-- LAYERS -->
 
 								<!-- LAYER NR. 2 -->
@@ -449,7 +449,7 @@
 
 				<div class="clear"></div>
 
-				<div class="section parallax dark mb-0 border-bottom-0" style="background-image: url('images/modab-paints-home-bg.jpg');padding-top:150px;" data-bottom-top="background-position:0px 0px;" data-top-bottom="background-position:0px -300px;">
+				<div class="section parallax dark mb-0 border-bottom-0" style="background-image: url('images/modabpaints-bg-1.jpg');padding-top:150px;" data-bottom-top="background-position:0px 0px;" data-top-bottom="background-position:0px -300px;">
 
 					<div class="container clearfix">
 

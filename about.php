@@ -5,7 +5,7 @@
 
 		<!-- Page Title
 		============================================= -->
-		<section id="page-title" class="page-title-parallax page-title-dark include-header" style="padding: 250px 0; background-image: url('images/about/parallax.jpg'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 400px;" data-top-bottom="background-position:0px -500px;">
+		<section id="page-title" class="page-title-parallax page-title-dark include-header" style="padding: 250px 0; background-image: url('images/modab-about-bg.jpg'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 400px;" data-top-bottom="background-position:0px -500px;">
 
 			<div class="container clearfix">
 				<h1>About Us</h1>
@@ -97,7 +97,7 @@
 
 				<div class="row align-items-stretch">
 
-					<div class="col-md-5 col-padding min-vh-75" style="background: url('images/team/3.jpg') center center no-repeat; background-size: cover;"></div>
+					<div class="col-md-5 col-padding min-vh-75" style="background: url('images/modab-paints-about-1.jpg') center center no-repeat; background-size: cover;"></div>
 
 					<div class="col-md-7 col-padding">
 						<div>
@@ -169,7 +169,7 @@
 
 				<div class="row align-items-stretch bottommargin-lg">
 
-					<div class="col-md-5 col-padding min-vh-75 order-md-last" style="background: url('images/team/8.jpg') center center no-repeat; background-size: cover;"></div>
+					<div class="col-md-5 col-padding min-vh-75 order-md-last" style="background: url('images/modab-paints-about-2.jpg') center center no-repeat; background-size: cover;"></div>
 
 					<div class="col-md-7 col-padding" style="background-color: #F5F5F5;">
 						<div>
@@ -277,19 +277,19 @@
 							<div class="slider-wrap">
 								<div class="slide">
 									<div class="testi-image">
-										<a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails"></a>
+										<a href="#"><img src="images/testi.png" alt="Chukwuma"></a>
 									</div>
 									<div class="testi-content">
 										<p>Great product, gave me the exact color I needed when I used it on my walls. Will definitely recommend</p>
 										<div class="testi-meta">
-											Chukwunma 
+											Chukwuma 
 											<!--<span>Apple Inc.</span>-->
 										</div>
 									</div>
 								</div>
 								<div class="slide">
 									<div class="testi-image">
-										<a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
+										<a href="#"><img src="images/testi.png" alt="Saheed"></a>
 									</div>
 									<div class="testi-content">
 										<p>Was skeptical about which paint to use to renovate my apartment, Modab Paints was introduced to me and I love the end product.</p>
@@ -301,7 +301,7 @@
 								</div>
 								<div class="slide">
 									<div class="testi-image">
-										<a href="#"><img src="images/testimonials/1.jpg" alt="Customer Testimonails"></a>
+										<a href="#"><img src="images/testi.png" alt="David"></a>
 									</div>
 									<div class="testi-content">
 										<p>A very good product for the amount I got it for, easy mix and gave me exactly what I was hoping to get.</p>

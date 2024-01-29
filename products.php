@@ -1,4 +1,5 @@
 		<?php
+			$page = 'products';
 			include('include/header.php');
 		?>
 		<!-- #header end -->

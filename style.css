@@ -125,6 +125,10 @@
 	margin-bottom: 1rem;
 }
 
+a.active{
+	color: #F48631 !important;
+}
+
 
 /* ----------------------------------------------------------------
 	Basic
@@ -16795,5 +16799,6 @@ label.checkbox { padding-left: 20px; }
 	-webkit-animation-name: fadeOutUpSmall;
 	animation-name: fadeOutUpSmall;
 }
+
 
 

@@ -1,4 +1,5 @@
 <?php
+	$page = 'portfolio';
 	include('include/header.php');
 ?>
 		<!-- #header end -->

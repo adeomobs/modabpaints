@@ -26,7 +26,27 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Home - Modab Paints</title>
+	<title>
+		<?php 
+			if($page == 'home'){
+				echo 'Home';
+				} 
+				else if($page == 'about'){
+					echo 'About Us';
+				} 
+				else if($page == 'products'){
+					echo 'Products';
+				} 
+				else if($page == 'portfolio'){
+					echo 'Portfolio';
+				} 
+				else if($page == 'contact'){
+					echo 'Contact Us';
+				} 
+				else {
+					echo 'Modab Paints';
+				} 
+		?> - Modab Paints</title>
 
 	<style>
 
@@ -144,19 +164,19 @@
 
 							<ul class="menu-container">
 								<li class="menu-item">
-									<a class="menu-link" href="index.php"><div>Home</div></a>
+									<a class="menu-link <?php if($page == 'home'){echo 'active';} ?>" href="index.php"><div>Home</div></a>
 								</li>
                                 <li class="menu-item">
-									<a class="menu-link" href="about.php"><div>About Us</div></a>
+									<a class="menu-link <?php if($page == 'about'){echo 'active';} ?>" href="about.php"><div>About Us</div></a>
 								</li>
                                 <li class="menu-item">
-									<a class="menu-link" href="products.php"><div>Our Products</div></a>
+									<a class="menu-link <?php if($page == 'products'){echo 'active';} ?>" href="products.php"><div>Our Products</div></a>
 								</li>
                                 <li class="menu-item">
-									<a class="menu-link" href="portfolio.php"><div>Portfolio</div></a>
+									<a class="menu-link <?php if($page == 'portfolio'){echo 'active';} ?>" href="portfolio.php"><div>Portfolio</div></a>
 								</li>
                                 <li class="menu-item">
-									<a class="menu-link" href="contact.php"><div>Contact Us</div></a>
+									<a class="menu-link <?php if($page == 'contact'){echo 'active';} ?>" href="contact.php"><div>Contact Us</div></a>
 								</li>
 							</ul>
 

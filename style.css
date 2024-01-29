@@ -6928,7 +6928,7 @@ body:not(.device-touch) .portfolio {
 	transition: height .4s linear;
 }
 
-.portfolio-reveal .portfolio-item { overflow: hidden; }
+.portfolio-reveal .portfolio-item { overflow: hidden; margin-bottom:0px;}
 
 .portfolio-item .portfolio-image {
 	position: relative;

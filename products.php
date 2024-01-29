@@ -30,7 +30,7 @@
 						<div class="col-sm-6 col-lg-6">
 							<div class="feature-box fbox-rounded fbox-effect">
 								<div class="fbox-icon">
-									<a href="modab-classic-paint.php"><i class="icon-screen i-alt"></i></a>
+									<a href="contact.php" title="Order Now"><i class="icon-check i-alt"></i></a>
 								</div>
 								<div class="fbox-content">
 									<h3>Modab Classic Paint</h3>
@@ -42,7 +42,7 @@
 						<div class="col-sm-6 col-lg-6">
 							<div class="feature-box fbox-rounded fbox-effect">
 								<div class="fbox-icon">
-									<a href="#"><i class="icon-eye i-alt"></i></a>
+									<a href="contact.php" title="Order Now"><i class="icon-check i-alt"></i></a>
 								</div>
 								<div class="fbox-content">
 									<h3>Modab Platinum Paint</h3>
@@ -54,7 +54,7 @@
 						<div class="col-sm-6 col-lg-6">
 							<div class="feature-box fbox-rounded fbox-effect">
 								<div class="fbox-icon">
-									<a href="#"><i class="icon-beaker i-alt"></i></a>
+									<a href="contact.php"><i class="icon-check i-alt"></i></a>
 								</div>
 								<div class="fbox-content">
 									<h3>Satin Finish</h3>
@@ -66,7 +66,7 @@
 						<div class="col-sm-6 col-lg-6">
 							<div class="feature-box fbox-rounded fbox-effect">
 								<div class="fbox-icon">
-									<a href="#"><i class="icon-stack i-alt"></i></a>
+									<a href="contact.php"><i class="icon-check i-alt"></i></a>
 								</div>
 								<div class="fbox-content">
 									<h3>Gloss Finish</h3>
@@ -78,7 +78,7 @@
 						<div class="col-sm-6 col-lg-6">
 							<div class="feature-box fbox-rounded fbox-effect">
 								<div class="fbox-icon">
-									<a href="#"><i class="icon-tint i-alt"></i></a>
+									<a href="contact.php"><i class="icon-check i-alt"></i></a>
 								</div>
 								<div class="fbox-content">
 									<h3>Emulsion</h3>
@@ -90,7 +90,7 @@
 						<div class="col-sm-6 col-lg-6">
 							<div class="feature-box fbox-rounded fbox-effect">
 								<div class="fbox-icon">
-									<a href="#"><i class="icon-text-width i-alt"></i></a>
+									<a href="contact.php"><i class="icon-check i-alt"></i></a>
 								</div>
 								<div class="fbox-content">
 									<h3>Textured</h3>
@@ -116,10 +116,11 @@
 					</div>-->
 
 					<div class="video-wrap" style="z-index: 1;">
-						<video poster="images/videos/explore-poster.jpg" preload="auto" loop autoplay muted>
+						<!--<video poster="images/videos/explore-poster.jpg" preload="auto" loop autoplay muted>
 							<source src='images/videos/explore.mp4' type='video/mp4' />
 							<source src='images/videos/explore.webm' type='video/webm' />
-						</video>
+						</video>-->
+						<img src="images/modab-paints-home-bg.jpg" />
 						<div class="video-overlay" style="background-color: rgba(0,0,0,0.1);"></div>
 					</div>
 
@@ -221,10 +222,10 @@
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
 								</div>
 							</div>
-							<div class="portfolio-desc">
+							<!--<div class="portfolio-desc">
 								<h3>Grey</h3>
-								<!--<span><a href="#">Media</a>, <a href="#">Icons</a></span>-->
-							</div>
+								<!--<span><a href="#">Media</a>, <a href="#">Icons</a></span>--
+							</div>-->
 						</div>
 					</article>
 
@@ -242,10 +243,10 @@
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
 								</div>
 							</div>
-							<div class="portfolio-desc">
+							<!--<div class="portfolio-desc">
 								<h3>Locked Steel Gate</h3>
-								<!--<span><a href="#">Illustrations</a></span>-->
-							</div>
+								<!--<span><a href="#">Illustrations</a></span>--
+							</div>-->
 						</div>
 					</article>
 
@@ -263,10 +264,10 @@
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
 								</div>
 							</div>
-							<div class="portfolio-desc">
+							<!--<div class="portfolio-desc">
 								<h3>Mac Sunglasses</h3>
-								<!--<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>-->
-							</div>
+								<!--<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>--
+							</div>-->
 						</div>
 					</article>
 
@@ -285,10 +286,10 @@
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
 								</div>
 							</div>
-							<div class="portfolio-desc">
+							<!--<div class="portfolio-desc">
 								<h3>Morning Dew</h3>
-								<!--<span><a href="#">Icons</a>, <a href="#">Illustrations</a></span>-->
-							</div>
+								<!--<span><a href="#">Icons</a>, <a href="#">Illustrations</a></span>--
+							</div>-->
 						</div>
 					</article>
 
@@ -306,10 +307,10 @@
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
 								</div>
 							</div>
-							<div class="portfolio-desc">
+							<!--<div class="portfolio-desc">
 								<h3>Console Activity</h3>
-								<!--<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>-->
-							</div>
+								<!--<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>--
+							</div>-->
 						</div>
 					</article>
 
@@ -327,10 +328,10 @@
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
 								</div>
 							</div>
-							<div class="portfolio-desc">
+							<!--<div class="portfolio-desc">
 								<h3>Shake It!</h3>
-								<!--<span><a href="#">Illustrations</a>, <a href="#">Graphics</a></span>-->
-							</div>
+								<!--<span><a href="#">Illustrations</a>, <a href="#">Graphics</a></span>--
+							</div>-->
 						</div>
 					</article>
 
@@ -348,10 +349,10 @@
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
 								</div>
 							</div>
-							<div class="portfolio-desc">
+							<!--<div class="portfolio-desc">
 								<h3>Backpack Contents</h3>
-								<!--<span><a href="#">UI Elements</a>, <a href="#">Icons</a></span>-->
-							</div>
+								<!--<span><a href="#">UI Elements</a>, <a href="#">Icons</a></span>--
+							</div>-->
 						</div>
 					</article>
 
@@ -369,10 +370,10 @@
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
 								</div>
 							</div>
-							<div class="portfolio-desc">
+							<!--<div class="portfolio-desc">
 								<h3>Sunset Bulb Glow</h3>
-								<!--<span><a href="#">Graphics</a></span>-->
-							</div>
+								<!--<span><a href="#">Graphics</a></span>--
+							</div>-->
 						</div>
 					</article>
 

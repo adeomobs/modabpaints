@@ -145,6 +145,91 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-41.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-41.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-30.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-30.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-33.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-33.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-34.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-34.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
 										<img src="images/portfolio/main/modab-paints-port-11.JPG" alt="Mac Sunglasses">
 									</a>
 									<div class="bg-overlay">
@@ -292,27 +377,6 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="#">
-										<img src="images/portfolio/main/modab-paints-port-4.JPG" alt="Mac Sunglasses">
-									</a>
-									<div class="bg-overlay">
-										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-											<a href="images/portfolio/main/modab-paints-port-4.JPG" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
-											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
-										</div>
-										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-									</div>
-								</div>
-								<!--<div class="portfolio-desc">
-									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
-									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
-								</div>-->
-							</div>
-						</article>
-
-						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
-							<div class="grid-inner">
-								<div class="portfolio-image">
-									<a href="#">
 										<img src="images/portfolio/main/modab-paints-port-13.JPG" alt="Mac Sunglasses">
 									</a>
 									<div class="bg-overlay">
@@ -330,7 +394,7 @@
 							</div>
 						</article>
 
-						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+						<!--<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="#">
@@ -339,6 +403,27 @@
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
 											<a href="images/portfolio/main/modab-paints-port-14.JPG" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>--
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>--
+							</div>
+						</article>-->
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-15.JPG" alt="Mac Sunglasses">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-15.JPG" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
 											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
 										</div>
 										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
@@ -350,16 +435,19 @@
 								</div>-->
 							</div>
 						</article>
+						
+
+						
 
 						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="#">
-										<img src="images/portfolio/main/modab-paints-port-15.JPG" alt="Mac Sunglasses">
+										<img src="images/portfolio/main/modab-paints-port-42.jpeg" alt="Modab Paints">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-											<a href="images/portfolio/main/modab-paints-port-15.JPG" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<a href="images/portfolio/main/modab-paints-port-42.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
 											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
 										</div>
 										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
@@ -402,27 +490,6 @@
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
 											<a href="images/portfolio/main/modab-paints-port-17.JPG" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
-											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
-										</div>
-										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-									</div>
-								</div>
-								<!--<div class="portfolio-desc">
-									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
-									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
-								</div>-->
-							</div>
-						</article>
-
-						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
-							<div class="grid-inner">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/portfolio/main/modab-paints-port-18.JPG" alt="Mac Sunglasses">
-									</a>
-									<div class="bg-overlay">
-										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-											<a href="images/portfolio/main/modab-paints-port-18.JPG" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
 											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
 										</div>
 										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
@@ -560,6 +627,333 @@
 								</div>-->
 							</div>
 						</article>
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-26.JPG" alt="Mac Sunglasses">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-26.JPG" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-27.JPG" alt="Mac Sunglasses">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+										<a href="https://youtu.be/lT6xG_nHLFY" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="iframe"><i class="icon-line-play"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-4.JPG" alt="Mac Sunglasses">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-4.JPG" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-18.JPG" alt="Mac Sunglasses">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-18.JPG" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-25.JPG" alt="MOdab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-25.JPG" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-27.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-27.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-28.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-28.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-29.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-29.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-31.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-31.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-32.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-32.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-35.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-35.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-37.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-37.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-38.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-38.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-39.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-39.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+						
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-graphics pf-uielements">
+							<div class="grid-inner">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/portfolio/main/modab-paints-port-36.jpeg" alt="Modab Paints">
+									</a>
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											<a href="images/portfolio/main/modab-paints-port-36.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+											<!--<a href="include/ajax/portfolio-single-video.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="ajax"><i class="icon-line-expand"></i></a>-->
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+								</div>
+								<!--<div class="portfolio-desc">
+									<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
+									<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+								</div>-->
+							</div>
+						</article>
+
+
+
+
+
 
 						<!--<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-icons pf-illustrations">
 							<div class="grid-inner">

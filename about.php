@@ -97,7 +97,7 @@
 
 				<div class="row align-items-stretch">
 
-					<div class="col-md-5 col-padding min-vh-75" style="background: url('images/modab-paints-about-1.jpg') center center no-repeat; background-size: cover;"></div>
+					<div class="col-md-5 col-padding min-vh-75" style="background: url('images/modab-paints-about-3.jpeg') center center no-repeat; background-size: cover;"></div>
 
 					<div class="col-md-7 col-padding">
 						<div>
@@ -169,7 +169,7 @@
 
 				<div class="row align-items-stretch bottommargin-lg">
 
-					<div class="col-md-5 col-padding min-vh-75 order-md-last" style="background: url('images/modab-paints-about-2.jpg') center center no-repeat; background-size: cover;"></div>
+					<div class="col-md-5 col-padding min-vh-75 order-md-last" style="background: url('images/modab-paints-about-4.jpeg') center center no-repeat; background-size: cover;"></div>
 
 					<div class="col-md-7 col-padding" style="background-color: #F5F5F5;">
 						<div>

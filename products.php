@@ -211,12 +211,12 @@
 					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-media pf-icons">
 						<div class="grid-inner">
 							<div class="portfolio-image">
-								<a href="images/modab-paints-color-1.jpeg">
-									<img src="images/modab-paints-color-1.jpeg" alt="Grey Modab Paint">
+								<a href="images/chart/chart-1.jpeg">
+									<img src="images/chart/chart-1.jpeg" alt="Brown Modab Paint">
 								</a>
 								<div class="bg-overlay">
 									<div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item">
-										<a href="images/modab-paints-color-1.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Grey"><i class="icon-line-plus"></i></a>
+										<a href="images/chart/chart-1.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Grey"><i class="icon-line-plus"></i></a>
 										<!--<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item"><i class="icon-line-ellipsis"></i></a>-->
 									</div>
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
@@ -232,12 +232,12 @@
 					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-illustrations">
 						<div class="grid-inner">
 							<div class="portfolio-image">
-								<a href="images/modab-paints-color-2.jpeg">
-									<img src="images/modab-paints-color-2.jpeg" alt="Locked Steel Gate">
+								<a href="images/chart/chart-2.jpeg">
+									<img src="images/chart/chart-2.jpeg" alt="Locked Steel Gate">
 								</a>
 								<div class="bg-overlay">
 									<div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item">
-										<a href="images/modab-paints-color-2.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+										<a href="images/chart/chart-2.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
 										<!--<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item"><i class="icon-line-ellipsis"></i></a>-->
 									</div>
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
@@ -253,12 +253,12 @@
 					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-graphics pf-uielements">
 						<div class="grid-inner">
 							<div class="portfolio-image">
-								<a href="images/modab-paints-color-3.jpeg">
-									<img src="images/modab-paints-color-3.jpeg" alt="Mac Sunglasses">
+								<a href="images/chart/chart-3.jpeg">
+									<img src="images/chart/chart-3.jpeg" alt="Mac Sunglasses">
 								</a>
 								<div class="bg-overlay">
 									<div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item">
-										<a href="images/modab-paints-color-3.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image"  title="Image"><i class="icon-line-plus"></i></a>
+										<a href="images/chart/chart-3.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image"  title="Image"><i class="icon-line-plus"></i></a>
 										<!--<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item"><i class="icon-line-ellipsis"></i></a>-->
 									</div>
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
@@ -274,12 +274,12 @@
 					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-icons pf-illustrations">
 						<div class="grid-inner">
 							<div class="portfolio-image">
-								<a href="images/modab-paints-color-4.jpeg">
-									<img src="images/modab-paints-color-4.jpeg" alt="Open Imagination">
+								<a href="images/chart/chart-4.jpeg">
+									<img src="images/chart/chart-4.jpeg" alt="Open Imagination">
 								</a>
 								<div class="bg-overlay">
 									<div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item">
-										<a href="images/modab-paints-color-4.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+										<a href="images/chart/chart-4.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
 										<!--<a href="images/portfolio/full/4-1.jpg" class="d-none" data-lightbox="gallery-item"></a>-->
 										<!--<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item"><i class="icon-line-ellipsis"></i></a>-->
 									</div>
@@ -296,12 +296,12 @@
 					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-uielements pf-media">
 						<div class="grid-inner">
 							<div class="portfolio-image">
-								<a href="images/modab-paints-color-5.jpeg">
-									<img src="images/modab-paints-color-5.jpeg" alt="Console Activity">
+								<a href="images/chart/chart-5.jpeg">
+									<img src="images/chart/chart-5.jpeg" alt="Console Activity">
 								</a>
 								<div class="bg-overlay">
 									<div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item">
-										<a href="images/modab-paints-color-5.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+										<a href="images/chart/chart-5.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
 										<!--<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item"><i class="icon-line-ellipsis"></i></a>-->
 									</div>
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
@@ -317,12 +317,12 @@
 					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-graphics pf-illustrations">
 						<div class="grid-inner">
 							<div class="portfolio-image">
-								<a href="images/modab-paints-color-6.jpeg">
-									<img src="images/modab-paints-color-6.jpeg" alt="Open Imagination">
+								<a href="images/chart/chart-6.jpeg">
+									<img src="images/chart/chart-6.jpeg" alt="Open Imagination">
 								</a>
 								<div class="bg-overlay">
 									<div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item">
-										<a href="images/modab-paints-color-6.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+										<a href="images/chart/chart-6.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
 										<!--<a href="portfolio-single-gallery.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item"><i class="icon-line-ellipsis"></i></a>-->
 									</div>
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
@@ -338,12 +338,12 @@
 					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-uielements pf-icons">
 						<div class="grid-inner">
 							<div class="portfolio-image">
-								<a href="images/modab-paints-color-7.jpeg">
-									<img src="images/modab-paints-color-7.jpeg" alt="Backpack Contents">
+								<a href="images/chart/chart-7.jpeg">
+									<img src="images/chart/chart-7.jpeg" alt="Backpack Contents">
 								</a>
 								<div class="bg-overlay">
 									<div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item">
-										<a href="images/modab-paints-color-7.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+										<a href="images/chart/chart-7.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
 										<!--<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item"><i class="icon-line-ellipsis"></i></a>-->
 									</div>
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
@@ -359,12 +359,75 @@
 					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-graphics">
 						<div class="grid-inner">
 							<div class="portfolio-image">
-								<a href="images/modab-paints-color-8.jpeg">
-									<img src="images/modab-paints-color-8.jpeg" alt="Sunset Bulb Glow">
+								<a href="images/chart/chart-8.jpeg">
+									<img src="images/chart/chart-8.jpeg" alt="Sunset Bulb Glow">
 								</a>
 								<div class="bg-overlay">
 									<div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item">
-										<a href="images/modab-paints-color-8.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+										<a href="images/chart/chart-8.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+										<!--<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item"><i class="icon-line-ellipsis"></i></a>-->
+									</div>
+									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
+								</div>
+							</div>
+							<!--<div class="portfolio-desc">
+								<h3>Sunset Bulb Glow</h3>
+								<!--<span><a href="#">Graphics</a></span>--
+							</div>-->
+						</div>
+					</article>
+
+					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-graphics">
+						<div class="grid-inner">
+							<div class="portfolio-image">
+								<a href="images/chart/chart-9.jpeg">
+									<img src="images/chart/chart-9.jpeg" alt="Sunset Bulb Glow">
+								</a>
+								<div class="bg-overlay">
+									<div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item">
+										<a href="images/chart/chart-9.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+										<!--<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item"><i class="icon-line-ellipsis"></i></a>-->
+									</div>
+									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
+								</div>
+							</div>
+							<!--<div class="portfolio-desc">
+								<h3>Sunset Bulb Glow</h3>
+								<!--<span><a href="#">Graphics</a></span>--
+							</div>-->
+						</div>
+					</article>
+
+					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-graphics">
+						<div class="grid-inner">
+							<div class="portfolio-image">
+								<a href="images/chart/chart-10.jpeg">
+									<img src="images/chart/chart-10.jpeg" alt="Sunset Bulb Glow">
+								</a>
+								<div class="bg-overlay">
+									<div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item">
+										<a href="images/chart/chart-10.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+										<!--<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item"><i class="icon-line-ellipsis"></i></a>-->
+									</div>
+									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
+								</div>
+							</div>
+							<!--<div class="portfolio-desc">
+								<h3>Sunset Bulb Glow</h3>
+								<!--<span><a href="#">Graphics</a></span>--
+							</div>-->
+						</div>
+					</article>
+
+					<article class="portfolio-item col-6 col-md-4 col-lg-3 pf-graphics">
+						<div class="grid-inner">
+							<div class="portfolio-image">
+								<a href="images/chart/chart-11.jpeg">
+									<img src="images/chart/chart-11.jpeg" alt="Sunset Bulb Glow">
+								</a>
+								<div class="bg-overlay">
+									<div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item">
+										<a href="images/chart/chart-11.jpeg" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
 										<!--<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item"><i class="icon-line-ellipsis"></i></a>-->
 									</div>
 									<div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item"></div>
